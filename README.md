@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jothi-krishnan/FEM_newbie02)
-- Live Site URL: [Add live site URL here](https://jothi-krishnan.github.io/FEM_newbie02/)
+- Solution URL: [My Github Repository](https://github.com/Jothi-krishnan/FEM_newbie02)
+- Live Site URL: [Live Website](https://jothi-krishnan.github.io/FEM_newbie02/)
 
 ## My process
 
